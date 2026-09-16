@@ -36,6 +36,6 @@ tax_withheld = gross_pay * (tax_rate / 100)
 net_pay      = gross_pay - tax_withheld
 
 print("Employee: ",employee)
-print(f"Gross pay: ${gross:.2f}")
+print(f"Gross pay: ${gross_pay:.2f}")
 print(f"Tax witheld : ${tax_withheld:.2f}")
 print(f"Net pay: ${net_pay:.2f}")
