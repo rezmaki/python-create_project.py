@@ -1,6 +1,6 @@
-# Name:
-# Date:
-# Course: COMP 163
+# Name:Makhari Russom
+# Date:September 16th,2026
+# Course: COMP 163 007
 # Project 1: Paycheck Calculator
 
 # Put your name after "# Name:" above. The grader checks that it is filled in.
